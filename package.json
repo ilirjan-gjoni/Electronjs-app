@@ -1,0 +1,17 @@
+{
+  "name": "exchange",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "author": "Ilirjan Gjoni",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+   
+    "electron": "^15.0.0"
+  }
+}

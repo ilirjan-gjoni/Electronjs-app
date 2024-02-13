@@ -1,0 +1,12 @@
+{
+    "appId": "com.example.myapp",
+    "productName": "Exchange",
+    "directories": {
+      "output": "dist"
+    },
+    "win": {
+      "target": "msi",
+      "icon": "C:/Users/User/Documents/deskapp/euro.ico"
+    }
+  }
+  
